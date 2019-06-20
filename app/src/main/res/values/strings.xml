@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="Update">Update Content</string>
+    <string name="update_contents">update_via_button</string>
+    <string name="title">TITLE</string>
+    <string name="content">Contents</string>
+    <string name="tv3">Status</string>
+    <string name="lastUpdate">Last Updated On</string>
+</resources>
